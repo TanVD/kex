@@ -19,7 +19,7 @@ dependencies {
 publishJar {
     bintray {
         username = "tanvd"
-        repository = "kex"
+        repository = "tanvd.kex"
         info {
             description = "Kotlin EXtended library"
             githubRepo = "https://github.com/TanVD/kex"
